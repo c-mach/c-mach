@@ -1,10 +1,12 @@
 # Hello! 👋 I'm Carman (she/they)
 
 ## A Front-End Web Developer, former chef, full-time snacker, gamer and proud dog-parent
+ 
+I recently pivoted careers from being in the hospitality industry as an operations chef and into a front-end web developer. The pandemic gave me the opportunity to explore other creative outputs which grew my love for coding further as I love bringing ideas to life by creating fun, responsive, and accessible apps! As a recent graduate of Juno College's Web Development Immersive Bootcamp, I am excited to make an impact as a developer by typpity-typing one line of code at a time!
 
-I recently pivoted careers from being a chef in the hospitality industry working in operations and management and into front-end web development. The pandemic gave me the opportunity to explore other creative outputs which grew my love for coding further as I love bringing ideas to life by creating fun, responsive, and accessible apps! As a recent graduate of Juno College's Web Development Immersive Bootcamp, I am excited to navigate through my tech journey by writing impactful code one line at a time!
+### My Tech Stack + Skills
 
-
+![html icon](assets/html-icon.png)
 
 <!--
 **c-mach/c-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
