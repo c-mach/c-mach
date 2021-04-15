@@ -6,7 +6,8 @@ I recently pivoted careers from being in the hospitality industry as an operatio
 
 
 ### My Tech Pantry
-![html icon](assets/html-icon.png) ![css icon](assets/css-icon.png) ![javascript icon](assets/js-icon.png) ![sass icon](assets/sass-icon.png) ![react icon](assets/react-icon.png)
+![html icon](assets/html-icon.png) ![css icon](assets/css-icon.png) ![javascript icon](assets/js-icon.png) ![sass icon](assets/sass-icon.png) ![react icon](assets/icons8-react-48.png)
+
 
 <!--
 **c-mach/c-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
