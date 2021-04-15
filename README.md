@@ -8,6 +8,19 @@ I recently pivoted careers from being in the hospitality industry as an operatio
 ### 🥞 Tech Stack + Skills
 ![html icon](assets/html-icon.png) ![css icon](assets/css-icon.png) ![javascript icon](assets/js-icon.png) ![sass icon](assets/sass-icon.png) ![react icon](assets/react-icon.png) ![firebase icon](assets/firebase-icon.png) ![api icon](assets/api-icon.png) ![responsive icon](assets/responsive-icon.png) ![accessibility icon](assets/accessibility-icon.png)
 
+#### 🧑🏻‍💻 I'm currently working on:
+- Wes Bos' 30-day challenges
+- My React fundamentals
+- Adding projects my repositories
+
+#### 📚 I'm currently learning:
+- From Fundamentals to Functional JS
+- Next: Vue.js
+
+#### 💬 Ask me about:
+- All things food related
+- The joys of my Dominican-rescue pup, Penny
+- Collaborating on new projects!
 
 <!--
 **c-mach/c-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
