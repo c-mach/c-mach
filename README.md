@@ -18,9 +18,9 @@ I recently pivoted careers from being in the hospitality industry as an operatio
 - Next: Vue.js
 
 #### 💬 Ask me about:
-- All things food related
-- The joys of my Dominican-rescue pup, Penny
-- Collaborating on new projects!
+- All things food related... especially if it's about pizza 🍕
+- The joys of my Dominican-rescue pup, Penny 🐕
+- Collaborating on new projects 👯
 
 <!--
 **c-mach/c-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
